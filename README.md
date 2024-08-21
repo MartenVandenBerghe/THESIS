@@ -7,4 +7,4 @@
 ##### Hierna moet de pathway waar deze folder is opgeslagen, ingevuld worden in beide notebooks zodat de correcte data gebruikt wordt tijdens de verwerking.
 ##### Ter verduidelijking: in beide notebooks moet de ... vervangen worden de pathway van de folder (folderDATA = '...' # change ... by user input (change \ to /))
 ##### Zorg hierbij dat de \ wordt vervangen door /
-##### Als dit correct is uitgevoerd, zouden beide notebooks zonder problemen kunnen runnen.
+##### Als dit correct is uitgevoerd, kan de notebook 'THESIS_MartenVandenBerghe_Data_conversion_Camera_calibration_3D_reconstruction' eerst worden overlopen, waarna dan de tweede notebook 'THESIS_MartenVandenBerghe_3D_reconstruction_checkerboard'. Beide notebooks zouden zonder problemen moeten runnen.
